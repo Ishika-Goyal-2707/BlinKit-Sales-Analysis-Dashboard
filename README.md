@@ -62,9 +62,10 @@ This project focuses on building an interactive Excel dashboard to analyze sales
 ### 🔹 Filters Panel
 ![Filters](screenshot2.png)
 ![Filters](screenshot3.png)
-![Filters](screenshot4.png)
+
 
 ### 🔹 KPI & Charts View
+![KPI Charts](screenshot4.png)
 ![KPI Charts](screenshot5.png)
 ![KPI Charts](screenshot6.png)
 ![KPI Charts](screenshot7.png)
