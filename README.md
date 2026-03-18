@@ -30,6 +30,8 @@ This project focuses on building an interactive Excel dashboard to analyze sales
   * Ratings
   * Fat Content
 
+  Full Dataset not uploaded due to large size
+
 ---
 
 ## 📊 Dashboard Features
